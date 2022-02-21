@@ -13,7 +13,7 @@ import com.weixin.WeiXinXMLHelper;
 /**
  * 统一下单--生成预付单
  * 
- * @author Canyon
+ * @author Canyon / 龚阳辉
  * 
  */
 @SuppressWarnings({ "unchecked", "rawtypes" })
